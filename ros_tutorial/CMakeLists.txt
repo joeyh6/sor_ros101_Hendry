@@ -210,6 +210,6 @@ catkin_install_python(
 	scripts/cylinder_input.py
 	scripts/radius_squared.py
 	scripts/cylinder_calc.py
-	scripts/weight_calc.py
+	scripts/asg_01_weight_calc.py
 	DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
 		
